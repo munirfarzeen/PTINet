@@ -154,12 +154,21 @@ For questions, please raise an issue or contact the authors through GitHub.
 If you utilize PTINet in your research or applications, please cite the following publication:
 
 ```bibtex
-@article{munir2024ptinet,
-  title={Context-aware Multi-task Learning for Pedestrian Intent and Trajectory Prediction},
-  author={Munir, Farzeen and Kucner, Tomasz Piotr},
-  journal={arXiv preprint arXiv:2407.17162},
-  year={2024}
+@article{munir2025context,
+  title        = {Context-aware multi-task learning for pedestrian intent and trajectory prediction},
+  author       = {Munir, Farzeen},
+  journal      = {Transportation Research Part C},
+  year         = {2025},
+  note         = {Article posted: 07 June 2025; Submitted: 09 June 2025},
+  volume       = {},
+  number       = {},
+  pages        = {105203},
+  doi          = {},
+  publisher    = {Elsevier},
+  copyright    = {© 2025 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY license. (http://creativecommons.org/licenses/by/4.0/)},
+  url          = {},
 }
+
 ```
 
 ---
